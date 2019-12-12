@@ -2,4 +2,6 @@ hej hej hej
 lslsls
 raz dwa trzy
 cztery
-dane z mastera
+dane z mastera i z testingu
+
+
