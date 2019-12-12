@@ -1,7 +1,2 @@
-hej hej hej
-lslsls
-raz dwa trzy
-cztery
-dane z mastera i z testingu
 
-
+hej
