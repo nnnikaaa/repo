@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+
+wpisuje cos innego
+=======
 1
 2
 
+>>>>>>> parent of 920a41a... t
